@@ -23,3 +23,5 @@ Do you think my wedsite is cool?
 Cool | Not Cool
 -----|---------
 You're cool too :+1: | I dont wanna be friends with you
+
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1284359.svg)
